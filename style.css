@@ -11,3 +11,8 @@ header {
 img {
   align: center;
 }
+
+a {
+  padding: 10px 10px;
+  background-color: grey;
+}
